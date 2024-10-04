@@ -7,3 +7,6 @@ php artisan key:generate
 
 ### generate table databse
 php artisan migrate
+
+### router api
+buka folder route > api.php
